@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lannaeifloriepi00dukegoog_0950.png"; bbox 0 0 2850 4767; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 275 1329 1209 1498">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 275 1329 1209 1498">
+     <span class='ocr_line' id='line_1_1' title="bbox 275 1329 1209 1498; baseline 0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 275 1329 1209 1498; x_wconf 60' lang='lat' dir='ltr'>nxcERPTloNbs.ss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 123 1637 1203 1836">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 123 1581 1203 1836">
+     <span class='ocr_line' id='line_1_2' title="bbox 123 1637 1203 1836; baseline 0.006 -34"><span class='ocrx_word' id='word_1_2' title='bbox 123 1637 1203 1836; x_wconf 75' lang='lat' dir='ltr'>CHR0N0L0G1CAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 252 1951 1083 2312">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 252 1951 1083 2312">
+     <span class='ocr_line' id='line_1_3' title="bbox 596 1951 724 2032; baseline -0.008 0"><span class='ocrx_word' id='word_1_3' title='bbox 596 1951 724 2032; x_wconf 80' lang='lat' dir='ltr'>AD</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 252 2144 1083 2312; baseline -0.011 -25"><span class='ocrx_word' id='word_1_4' title='bbox 252 2144 327 2288; x_wconf 56' lang='lat' dir='ltr'>La</span> <span class='ocrx_word' id='word_1_5' title='bbox 409 2152 485 2310; x_wconf 69' lang='lat' dir='ltr'>A}</span> <span class='ocrx_word' id='word_1_6' title='bbox 564 2145 1083 2312; x_wconf 77' lang='lat' dir='ltr'>FLORUMj</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1430 4767">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1430 4767">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1430 4767; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1430 4767; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
